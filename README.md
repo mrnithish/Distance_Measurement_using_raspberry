@@ -1,6 +1,4 @@
-Certainly! Here's a basic README template for a distance measuring project using a Raspberry Pi and an ultrasonic sensor with Python:
 
-```markdown
 # Distance Measurement with Raspberry Pi and Ultrasonic Sensor
 
 ## Overview
