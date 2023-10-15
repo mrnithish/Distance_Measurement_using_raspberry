@@ -66,13 +66,3 @@ If you'd like to contribute to this project, please follow these steps:
 
 This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Acknowledgments
-
-- [Optional: Mention any contributors, libraries, or resources that you want to acknowledge]
-
----
-
-Feel free to customize this README with more specific details about your project, the sensor model, or any additional features you've implemented. Good luck with your distance measuring project!
-```
-
-Make sure to replace `[License Name]` with the appropriate license for your project. Customize other sections as needed, and add any specific details about your project that you find relevant.
