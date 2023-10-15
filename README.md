@@ -36,13 +36,13 @@ git clone https://github.com/yourusername/ultrasonic-distance-measurement.git
 2. Navigate to the project directory.
 
 ```bash
-cd ultrasonic-distance-measurement
+cd Distance_Measurement_using_raspberry
 ```
 
 3. Run the Python script to measure distances.
 
 ```bash
-python distance_measurement.py
+python main.py
 ```
 
 4. The script will display real-time distance measurements on the console.
